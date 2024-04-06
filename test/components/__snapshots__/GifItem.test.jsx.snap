@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifItem /> Debe hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Titulo"
+      src="https://www.explore.com/img/gallery/the-50-most-incredible-landscapes-in-the-whole-entire-world/intro-1672072042.webp"
+    />
+    <p>
+      Titulo
+    </p>
+  </div>
+</div>
+`;
